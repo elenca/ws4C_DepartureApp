@@ -1,0 +1,6 @@
+
+.button.icon  {
+    -fx-font-family: 'FontAwesome';
+    -fx-font-size: 16;
+    -fx-text-fill: red;
+}

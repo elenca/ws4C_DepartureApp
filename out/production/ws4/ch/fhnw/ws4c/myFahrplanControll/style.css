@@ -1,0 +1,38 @@
+.myFahrplanControl {
+    -fx-pref-height: 208;
+    -fx-pref-width: 210;
+    -base-color: rgb(23, 61, 145);
+}
+
+.myFahrplanControl .gleis {
+    -fx-font-family: 'SBBWeb Roman';
+    -fx-font-size: 30;
+    -fx-fill: white;
+}
+
+.myFahrplanControl .display {
+    -fx-pref-height: 250;
+    -fx-pref-width: 250;
+    -fx-font-family: 'SBBWeb Condensed Bold';
+    -fx-font-size: 165;
+    -fx-fill: white;
+    -fx-padding: 0;
+}
+
+.myFahrplanControl .background {
+    -fx-pref-height: 250;
+    -fx-pref-width: 250;
+    -fx-fill: -base-color;
+    -fx-background-color: -base-color;
+    -fx-padding: 0;
+}
+
+.myFahrplanControl .border {
+    -fx-pref-height: 208;
+    -fx-pref-width: 210;
+    -fx-border-radius: 14;
+    -fx-border-width: 3;
+    -fx-border-color: #FFFFFF;
+    -fx-background-insets: 0, 20, 40;
+    -fx-padding: 0;
+}

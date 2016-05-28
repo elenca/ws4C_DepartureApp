@@ -1,0 +1,24 @@
+PathPane {
+    -fx-background-color: azure;
+    -fx-padding: 20;
+    -fx-spacing: 20;
+}
+
+.playground {
+    -fx-pref-height: 250;
+    -fx-pref-width: 250;
+    -fx-background-color: none;
+}
+
+.pathPlayground {
+    -fx-pref-width: 300;
+    -fx-pref-height: 300;
+    -fx-border-color: #890213;
+    -fx-border-width: 5;
+    -fx-border-style: dashed;
+    -fx-background-color: #C30C84;
+    -fx-scale-shape: true;
+    -fx-shape: "M188.65,68.86S141.58,0.45,94.5.45,0.35,68.86.35,68.86s94.15,36.5,36,110.69H152.69C94.5,101.62,188.65,68.86,188.65,68.86ZM110.23,55L94.5,82.28,78.77,55,63,27.79H126Z";
+    -fx-effect: dropshadow(gaussian, #000000, 40.0, 0.0, 7.0, 7.0) ;
+
+}
