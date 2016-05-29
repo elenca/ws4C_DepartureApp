@@ -16,7 +16,7 @@
  *
  */
 
-package ch.fhnw.CustomControl.myFahrplanControll.demo;
+package CustomControl.myFahrplanControll.demo;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

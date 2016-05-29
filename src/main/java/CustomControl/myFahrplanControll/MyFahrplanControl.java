@@ -1,4 +1,4 @@
-package ch.fhnw.CustomControl.myFahrplanControll;
+package CustomControl.myFahrplanControll;
 
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;

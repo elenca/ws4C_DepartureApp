@@ -16,7 +16,7 @@
  *
  */
 
-package ch.fhnw.CustomControl.myFahrplanControll.demo;
+package CustomControl.myFahrplanControll.demo;
 
 
 
@@ -24,7 +24,7 @@ import javafx.geometry.Insets;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.BorderPane;
 
-import ch.fhnw.CustomControl.myFahrplanControll.MyFahrplanControl;
+import CustomControl.myFahrplanControll.MyFahrplanControl;
 
 /**
  * @author Dieter Holz

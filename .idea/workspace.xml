@@ -1,9 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c982275-6a9c-4c20-aaf4-c57458042d54" name="Default" comment="" />
+    <list default="true" id="9c982275-6a9c-4c20-aaf4-c57458042d54" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/MyFahrplanControl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoPane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoStarter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/MyFahrplanControl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/demo/DemoPane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/demo/DemoStarter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/MyFahrplanControl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoPane.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoStarter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ws4.iml" afterPath="$PROJECT_DIR$/.idea/ws4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/SimpleControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/SimpleControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/AppStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/AppStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMemoryUI.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMemoryUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMixerPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMixerPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/CoolColorMemoryPM.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/CoolColorMemoryPM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconDemo.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControls.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControls.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControlsStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControlsStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDDemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDDemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplatePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplatePane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplateStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplateStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplatePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplatePane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplateStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplateStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/InteractionPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/InteractionPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/Starter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/Adder.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/Adder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/PropertyExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/PropertyExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/AnimationPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/AnimationPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/Starter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/Led.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/Led.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/Switch.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/Switch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/SwitchOn.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/SwitchOn.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/KeyframePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/KeyframePlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/Starter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/SlimValueDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/SlimValueDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/SlimValueDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/SlimValueDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/StatusIcon.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/StatusIcon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/StatusIcon.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/StatusIcon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/LinearSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/LinearSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/NumberRangeControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/NumberRangeControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SkinType.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SkinType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SlimSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SlimSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/linearStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/linearStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/slimStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/slimStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/GaugePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/GaugePlayground.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/LinearSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/LinearSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/NumberRangeControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/NumberRangeControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/PieSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/PieSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SkinType.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SkinType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SlimSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SlimSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/TemplateSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/TemplateSkin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/linearStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/linearStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/pieStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/pieStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/slimStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/slimStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/MyControlII.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/MyControlII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/style.css" />
+    </list>
     <ignored path="ws4.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +207,100 @@
   <component name="FavoritesManager">
     <favorites_list name="ws4" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DemoPane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="73" column="86" selection-start-line="73" selection-start-column="86" selection-end-line="73" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClockPlayground.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoPane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoStarter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFahrplanAppControll.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/fonts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFahrplanControl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/MyFahrplanControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,14 +309,21 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/MyFahrplanControl.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="355" />
-    <option name="y" value="54" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
@@ -63,7 +352,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -78,7 +368,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ws4" />
+              <option name="myItemId" value="ws4C_DepartureApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -88,7 +378,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ws4" />
+              <option name="myItemId" value="ws4C_DepartureApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -106,37 +396,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ws4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fhnw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ws4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ws4" />
+              <option name="myItemId" value="ws4C_DepartureApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -149,18 +409,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fhnw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomControl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -168,26 +416,201 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws4C_DepartureApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myFahrplanControll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws4C_DepartureApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/CustomControl" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/CustomControl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoStarter (2)">
+    <configuration default="false" name="DemoStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch.fhnw.CustomControl.myFahrplanControll.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch.fhnw.CustomControl.myFahrplanControll.demo.DemoStarter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ws4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoStarter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch.fhnw.ws4c.myFahrplanControll.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch.fhnw.ws4c.myFahrplanControll.demo.DemoStarter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ws4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoStarter (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="CustomControl.myFahrplanControll.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="CustomControl.myFahrplanControll.demo.DemoStarter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ws4" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -213,6 +636,159 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -234,12 +810,88 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ws4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -270,6 +922,66 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.DemoStarter" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoStarter (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DemoStarter (2)" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoStarter (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoStarter (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DemoStarter" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -279,38 +991,41 @@
       <option name="number" value="Default" />
       <updated>1464532925216</updated>
       <workItem from="1464532926504" duration="79000" />
+      <workItem from="1464533230037" duration="728000" />
+      <workItem from="1464534066789" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79000" />
+    <option name="totallyTimeSpent" value="1334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="355" y="54" width="1440" height="825" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -319,6 +1034,84 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="86" selection-start-line="73" selection-start-column="86" selection-end-line="73" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/MyFahrplanControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -359,7 +1152,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8 (1)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
