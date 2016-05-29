@@ -1,195 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c982275-6a9c-4c20-aaf4-c57458042d54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/demo/DemoStarter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/MyFahrplanControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoPane.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoStarter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/CustomControl/myFahrplanControll/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/demo/DemoStarter.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/MyFahrplanControl.class" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/MyFahrplanControl.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/demo/DemoPane.class" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/demo/DemoPane.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/myFahrplanControll/style.css" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/MyFahrplanControl.java" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/MyFahrplanControl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoPane.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/CustomControl/myFahrplanControll/demo/DemoStarter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/fonts.css" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.sketch" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/sketch/MyFahrplanAppControll.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/CustomControl/myFahrplanControll/style.css" afterPath="$PROJECT_DIR$/out/production/ws4/CustomControl/myFahrplanControll/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/out/production/ws4/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/switch.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/sketch/StatusIcon.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/sketch/StatusIcon.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ws4.iml" afterPath="$PROJECT_DIR$/.idea/ws4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/SimpleControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/SimpleControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/sketch/SimpleControl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/circles/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/AppStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/AppStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMemoryUI.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMemoryUI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMixerPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/ColorMixerPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/CoolColorMemoryPM.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/CoolColorMemoryPM.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/colormemoryinwork/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplate/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutfonts/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/demotemplatewithoutstyling/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconDemo.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/IconPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/icondemo/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControls.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControls.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControlsStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module01/simplecontrols/SimpleControlsStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/BordersAndBackgroundPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/bordersandbackgrounds/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/GradientPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/gradients/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/PathPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/path/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/ShadowPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shadows/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/ShapePlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module02/shapes/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDDemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDDemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/LEDPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/ledbase/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplatePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplatePane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplateStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/ResizingTemplateStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_a/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplatePane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplatePane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplateStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/ResizingTemplateStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module03/resizing_b/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/bidirectionalbinding/BidirectionalBindingExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/binding/unidirectionalbinding/SimpleBindingExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/EventHandlingExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/eventhandling/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/InteractionPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/InteractionPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/interactionplayground/Starter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/borderpane/BorderPaneStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/gridpane/GridPaneStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/layout/hbox/HBoxStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/Adder.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/Adder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/AdderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/PropertyExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/properties/PropertyExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedApp.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedExample.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/ValueChangedExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module04/valuechanged/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/AnimationPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/AnimationPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/animationplayground/Starter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/Led.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/Led.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/sketch/SimpleControl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/led/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/Switch.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/Switch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/SwitchOn.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/sketch/SwitchOn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module05/switchcontrol/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/KeyframePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/KeyframePlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/keyframeplayground/Starter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/SlimValueDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/SlimValueDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplay/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/SlimValueDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/SlimValueDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/slimvaluedisplaysolution/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/StatusIcon.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/StatusIcon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusicon/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/StatusIcon.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/StatusIcon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module06/statusiconsolution/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/LinearSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/LinearSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/NumberRangeControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/NumberRangeControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SkinType.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SkinType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SlimSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/SlimSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/linearStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/linearStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/slimStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/controllibrary/slimStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/ClockPlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/GaugePlayground.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module09/medusaplayground/GaugePlayground.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/LinearSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/LinearSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/NumberRangeControl.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/NumberRangeControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/PieSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/PieSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SkinType.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SkinType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SlimSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/SlimSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/TemplateSkin.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/TemplateSkin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/linearStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/linearStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/pieStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/pieStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/slimStyle.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/module10/controllibraryinwork/slimStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/MyControlII.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/MyControlII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoPane.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoStarter.java" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/demo/DemoStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/fonts.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.svg" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/sketch/SimpleControl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/style.css" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/ws4c/mycontrollII/style.css" />
-    </list>
+    <list default="true" id="9c982275-6a9c-4c20-aaf4-c57458042d54" name="Default" comment="" />
     <ignored path="ws4.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -475,7 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/CustomControl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FHNW_ivis/ivis_Graph" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -993,16 +805,16 @@
       <updated>1464532925216</updated>
       <workItem from="1464532926504" duration="79000" />
       <workItem from="1464533230037" duration="728000" />
-      <workItem from="1464534066789" duration="610000" />
+      <workItem from="1464534066789" duration="1164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1417000" />
+    <option name="totallyTimeSpent" value="1971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
