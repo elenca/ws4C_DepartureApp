@@ -1,39 +1,107 @@
 @font-face {
+    font-family: 'SBB Bold';
+    src: url("/fonts/SBB/SBB-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Condensed Bold';
+    src: url("/fonts/SBB/SBB-Condensed-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Condensed Heavy';
+    src: url("/fonts/SBB/SBB-Condensed-Heavy.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Italic';
+    src: url("/fonts/SBB/SBB-Italic.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Light';
+    src: url("/fonts/SBB/SBB-Light.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Roman';
+    src: url("/fonts/SBB/SBB-Roman.ttf");
+}
+
+@font-face {
+    font-family: 'SBB Thin';
+    src: url("/fonts/SBB/SBB-Thin.ttf");
+}
+
+@font-face {
+    font-family: 'SBB UltraLight';
+    src: url("/fonts/SBB/SBB-UltraLight.ttf");
+}
+
+@font-face {
     font-family: 'SBBWeb Bold';
-    src: url("/fonts/SBB-Web/SBBWeb-Bold.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Bold.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Condensed Bold';
-    src: url("/fonts/SBB-Web/SBBWeb-Condensed-Bold.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Condensed-Bold.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Condensed Heavy';
-    src: url("/fonts/SBB-Web/SBBWeb-Condensed-Heavy.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Condensed-Heavy.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Italic';
-    src: url("/fonts/SBB-Web/SBBWeb-Italic.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Italic.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Light';
-    src: url("/fonts/SBB-Web/SBBWeb-Light.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Light.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Roman';
-    src: url("/fonts/SBB-Web/SBBWeb-Roman.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Roman.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb Thin';
-    src: url("/fonts/SBB-Web/SBBWeb-Thin.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-Thin.ttf");
 }
 
 @font-face {
     font-family: 'SBBWeb UltraLight';
-    src: url("/fonts/SBB-Web/SBBWeb-UltraLight.ttf");
+    src: url("/fonts/SBBWeb/SBBWeb-UltraLight.ttf");
+}
+
+@font-face {
+    font-family: 'Roboto Regular';
+    src: url(/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url(/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Thin';
+    src: url(/fonts/Roboto/Roboto-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Light';
+    src: url(/fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'Helvetica Neue Bold';
+    src: url("/fonts/helveticaneue/HelveticaNeueBd.ttf");
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url("/fonts/helveticaneue/HelveticaNeue.ttf");
 }

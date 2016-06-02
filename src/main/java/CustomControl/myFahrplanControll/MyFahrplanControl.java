@@ -75,15 +75,16 @@ public class MyFahrplanControl extends Region {
 		border.setLayoutY(21);
 
 		gleis = new Text("Gleis");
-		gleis.getStyleClass().add("gleis");
-		gleis.setX(42);
+		gleis.setX(40);
 		gleis.setY(57);
+		gleis.getStyleClass().add("gleis");
+		applyCss(gleis);
 
 		display = new Text(getText());
-		display.getStyleClass().add("display");
 		display.setTextOrigin(VPos.CENTER);
 		display.setTextAlignment(TextAlignment.CENTER);
-		display.setY(142);
+		display.setY(145);
+		display.getStyleClass().add("display");
 		applyCss(display);
 
 		relocateDisplay();
