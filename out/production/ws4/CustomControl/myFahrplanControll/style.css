@@ -1,18 +1,18 @@
 .myFahrplanControl {
     -fx-pref-height: 208;
     -fx-pref-width: 210;
-    -base-color: rgb(23, 61, 145);
+    -base-color: rgb(45, 50, 125);
 }
 
 .myFahrplanControl .gleis {
     -fx-font-family: 'SBB Roman';
-    -fx-font-size: 30px;
+    -fx-font-size: 30;
     -fx-fill: white;
 }
 
 .myFahrplanControl .display {
-    -fx-font-family: 'SBB Condensed Bold';
-    -fx-font-size: 160px;
+    -fx-font-family: 'SBB Bold';
+    -fx-font-size: 160;
     -fx-fill: white;
     -fx-padding: 0;
 }

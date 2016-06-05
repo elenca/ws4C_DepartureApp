@@ -41,7 +41,7 @@ public class MyFahrplanControl extends Region {
 	private Pane drawingPane;
 
 	// all properties
-	private final StringProperty text = new SimpleStringProperty("2");
+	private final StringProperty text = new SimpleStringProperty("5");
 
 
 	public MyFahrplanControl() {
@@ -75,15 +75,15 @@ public class MyFahrplanControl extends Region {
 		border.setLayoutY(21);
 
 		gleis = new Text("Gleis");
-		gleis.setX(40);
-		gleis.setY(57);
+		gleis.setX(45);
+		gleis.setY(70);
 		gleis.getStyleClass().add("gleis");
 		applyCss(gleis);
 
 		display = new Text(getText());
 		display.setTextOrigin(VPos.CENTER);
 		display.setTextAlignment(TextAlignment.CENTER);
-		display.setY(145);
+		display.setY(170);
 		display.getStyleClass().add("display");
 		applyCss(display);
 
