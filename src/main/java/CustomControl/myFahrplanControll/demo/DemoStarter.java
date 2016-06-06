@@ -30,7 +30,8 @@ public class DemoStarter extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		Region rootPanel = new DemoPane();
+		Region rootPanel = new DemoPaneHead();
+		// Region rootPanel = new DemoPane();
 
 		Scene scene = new Scene(rootPanel);
 

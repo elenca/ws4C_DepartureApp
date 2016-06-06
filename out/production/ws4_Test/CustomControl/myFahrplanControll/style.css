@@ -1,0 +1,67 @@
+.myFahrplanControl, .myFahrplanHeadControl {
+    -base-color: rgb(23, 61, 145);
+    -font-color: rgb(255, 255, 255);
+}
+
+.myFahrplanControl .background {
+    -fx-pref-height: 250;
+    -fx-pref-width: 250;
+    -fx-fill: -base-color;
+    -fx-background-color: -base-color;
+    -fx-padding: 0;
+}
+
+.myFahrplanControl .gleis {
+    -fx-font-family: 'SBB Roman';
+    -fx-pref-height: 30;
+    -fx-font-size: 30;
+    -fx-letter-spacing: -55;
+    -fx-fill: -font-color;
+}
+
+.myFahrplanControl .display {
+    -fx-font-family: 'SBB Condensed Bold';
+    -fx-font-size: 170;
+    -fx-pref-height: 115;
+    -fx-pref-widtz:175;
+    -fx-fill: -font-color;
+    -fx-padding: 0;
+}
+
+.myFahrplanControl .border {
+    -fx-pref-height: 208;
+    -fx-pref-width: 210;
+    -fx-border-radius: 14;
+    -fx-border-width: 3;
+    -fx-border-color: -font-color;
+    -fx-background-insets: 0, 20, 40;
+    -fx-padding: 0;
+}
+
+.myFahrplanHeadControl .headBG{
+    -fx-pref-height: 200;
+    -fx-pref-width: 470;
+    -fx-background-color: -base-color;
+
+}
+
+.myFahrplanHeadControl .departure{
+    -fx-font-family: "SBB Bold";
+    -fx-font-size: 26;
+    -fx-pref-height: 26;
+    -fx-fill: -font-color;
+}
+
+.myFahrplanHeadControl .destination{
+    -fx-font-family: "SBB Bold";
+    -fx-font-size: 34;
+    -fx-pref-height: 34;
+    -fx-fill: -font-color;
+}
+
+.myFahrplanHeadControl .trainNr{
+    -fx-font-family: "SBB Italic";
+    -fx-font-size: 22;
+    -fx-pref-height: 22;
+    -fx-fill: -font-color;
+}

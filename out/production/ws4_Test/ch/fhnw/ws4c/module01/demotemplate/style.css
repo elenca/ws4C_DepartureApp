@@ -1,0 +1,19 @@
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: 'DS-Digital';
+    -fx-background-color: #ff00ff;
+    -fx-background-radius: 15;
+}
+.button:hover{
+    -fx-text-fill: aqua;
+}
+.button.icon{
+    -fx-font-family: 'FontAwesome';
+    -fx-font-size: 16;
+    -fx-text-fill: white;
+}
+
+.button.icon:hover{
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+}

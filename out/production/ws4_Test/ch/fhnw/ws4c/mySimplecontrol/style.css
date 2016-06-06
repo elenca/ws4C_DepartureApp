@@ -1,0 +1,23 @@
+.simpleControl {
+    -fx-padding: 2;
+    -base-color: rgb(23, 61, 145);
+    -fx-background-color: -base-color;
+}
+
+.simpleControl .display {
+    -fx-font-family: 'Roboto Light';
+    -fx-font-size: 72;
+    -fx-fill: white;
+}
+
+.simpleControl .background {
+    -fx-fill: -base-color;
+}
+.simpleControl .border {
+    -fx-fill: -base-color;
+    -fx-stroke: #FFFFFF;
+    -fx-stroke-width: 3;
+    -fx-stroke-type: inside;
+    -fx-border-radius: 14 14 14 14;
+}
+

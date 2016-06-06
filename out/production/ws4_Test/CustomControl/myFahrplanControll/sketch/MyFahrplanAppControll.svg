@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>MyFahrplanAppControll</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="19.8679245" y="20.8679245" width="208.0038" height="211" rx="14"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="208.0038" height="211" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Gleis-CustomControll" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1">
+            <g id="MyFahrplanAppControll">
+                <rect id="background" fill="#173D91" x="0" y="0" width="250" height="250"></rect>
+                <use id="border" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                <text id="display" font-family="SBBWebCondensed-Bold, SBB Web" font-size="160" font-style="condensed" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="84" y="202">1</tspan>
+                </text>
+                <text id="gleis" font-family="SBBWeb-Roman, SBB Web" font-size="30" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="45" y="69">Gleis</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
