@@ -1,5 +1,5 @@
 .myFahrplanControl, .myFahrplanHeadControl {
-    -base-color: rgb(23, 61, 145);
+    -base-color: rgb(45, 50, 125);
     -font-color: rgb(255, 255, 255);
 }
 
@@ -13,9 +13,9 @@
 
 .myFahrplanControl .gleis {
     -fx-font-family: 'SBB Roman';
-    -fx-pref-height: 30;
     -fx-font-size: 30;
-    -fx-letter-spacing: -55;
+    -fx-line-height:32;
+    -fx-letter-spacing: -15;
     -fx-fill: -font-color;
 }
 

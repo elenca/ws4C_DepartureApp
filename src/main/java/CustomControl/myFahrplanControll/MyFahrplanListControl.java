@@ -14,18 +14,19 @@ import javafx.scene.text.Text;
 import javafx.scene.text.TextAlignment;
 
 /**
- * Created by bettina on 06.06.16.
+ * Created by bettina on 07.06.16.
  */
-public class MyFahrplanHeadControl extends Region {
+public class MyFahrplanListControl extends Region {
+
     private static final String FONTS_CSS = "fonts.css";
     private static final String STYLE_CSS = "style.css";
 
-    private static final double PREFERRED_WIDTH  = 470;
-    private static final double PREFERRED_HEIGHT = 200;
+    private static final double PREFERRED_WIDTH  = 350;
+    private static final double PREFERRED_HEIGHT = 42;
 
     private static final double ASPECT_RATIO = PREFERRED_WIDTH / PREFERRED_HEIGHT;
 
-    private static final double MINIMUM_WIDTH  = 25;
+    private static final double MINIMUM_WIDTH  = 50;
     private static final double MINIMUM_HEIGHT = MINIMUM_WIDTH / ASPECT_RATIO;
 
     private static final double MAXIMUM_WIDTH  = 800;
@@ -33,22 +34,21 @@ public class MyFahrplanHeadControl extends Region {
     // all parts
 	/* private Rectangle 	background; */
 
-    private Region 		        headBG;
-    private Text      	        departureLabel;
+    private Region              headBG;
+    private Text                departureLabel;
     private Text                destinationLabel;
-    private Text                trainNrLabel;
-    private MyFahrplanControl   trackValueLabel;
+    private Text                trackLabel;
+    private Text                trackValueLabel;
 
     private Pane drawingPane;
 
     // all properties
     private final StringProperty departure = new SimpleStringProperty("00:33");
     private final StringProperty destination = new SimpleStringProperty("Zürich");
-    private final StringProperty trainNr = new SimpleStringProperty("ICN 1549");
     private final StringProperty trackValue = new SimpleStringProperty("-");
 
-
-    public MyFahrplanHeadControl() {
+/*
+    public MyFahrplanListControl() {
         init();
         initializeParts();
         layoutParts();
@@ -63,50 +63,50 @@ public class MyFahrplanHeadControl extends Region {
     }
 
     private void initializeParts() {
+    */
 		/*
 		background = new Rectangle(0.0, 0.0, PREFERRED_WIDTH, PREFERRED_HEIGHT);
 		background.getStyleClass().add("background");
 		*/
-
+/*
         headBG = new Region();
-        headBG.getStyleClass().add("headBG");
+        headBG.getStyleClass().add("listBG");
         headBG.setLayoutX(0);
         headBG.setLayoutY(0);
 
-        trackValueLabel = new MyFahrplanControl();
+        trackValueLabel = new Text(getTrackValue());;
         trackValueLabel.textProperty().set(getTrackValue());
         trackValueLabel.setLayoutX(17);
         trackValueLabel.setLayoutY(20);
-        trackValueLabel.setPrefSize(157, 157);
 
         departureLabel = new Text(getDeparture());
-        departureLabel.getStyleClass().add("departure");
+        departureLabel.getStyleClass().add("departureList");
         departureLabel.setTextOrigin(VPos.CENTER);
         departureLabel.setTextAlignment(TextAlignment.LEFT);
-        departureLabel.setX(190);
-        departureLabel.setY(55);
+        departureLabel.setX(16);
+        departureLabel.setY(12);
 
 
         destinationLabel = new Text(getDestination());
-        destinationLabel.getStyleClass().add("destination");
+        destinationLabel.getStyleClass().add("destinationList");
         destinationLabel.setTextOrigin(VPos.CENTER);
         destinationLabel.setTextAlignment(TextAlignment.LEFT);
-        destinationLabel.setX(190);
-        destinationLabel.setY(127);
+        destinationLabel.setX(92);
+        destinationLabel.setY(12);
 
 
-        trainNrLabel = new Text(getTrainNr());
-        trainNrLabel.getStyleClass().add("trainNr");
-        trainNrLabel.setTextOrigin(VPos.CENTER);
-        trainNrLabel.setTextAlignment(TextAlignment.LEFT);
-        trainNrLabel.setX(190);
-        trainNrLabel.setY(153);
+        trackLabel = new Text("Gleis");
+        trackLabel.getStyleClass().add("trackLabelList");
+        trackLabel.setTextOrigin(VPos.CENTER);
+        trackLabel.setTextAlignment(TextAlignment.LEFT);
+        trackLabel.setX(190);
+        trackLabel.setY(153);
 
 
         applyCss(headBG);
         applyCss(departureLabel);
         applyCss(destinationLabel);
-        applyCss(trainNrLabel);
+        applyCss(trackLabel);
 
 
 
@@ -121,7 +121,7 @@ public class MyFahrplanHeadControl extends Region {
     }
 
     private void layoutParts() {
-        drawingPane.getChildren().addAll(headBG, trackValueLabel, departureLabel, destinationLabel, trainNrLabel);
+        drawingPane.getChildren().addAll(headBG, trackValueLabel, departureLabel, destinationLabel, trackLabel);
         getChildren().add(drawingPane);
     }
 
@@ -141,7 +141,7 @@ public class MyFahrplanHeadControl extends Region {
         });
 
         trainNrProperty().addListener((observable, oldValue, newValue) -> {
-            trainNrLabel.setText(newValue);
+            trackLabel.setText(newValue);
             relocateDisplay();
         });
 
@@ -151,7 +151,7 @@ public class MyFahrplanHeadControl extends Region {
             relocateDisplay();
         });
 
-
+/*
         // always needed
         widthProperty().addListener((observable, oldValue, newValue) -> resize());
         heightProperty().addListener((observable, oldValue, newValue) -> resize());
@@ -272,7 +272,7 @@ public class MyFahrplanHeadControl extends Region {
     public void setDestination(String destination) {
         this.destination.set(destination);
     }
-
+/*
     public String getTrainNr() {
         return trainNr.get();
     }
@@ -296,4 +296,5 @@ public class MyFahrplanHeadControl extends Region {
     public void setTrackValue(String trackValue) {
         this.trackValue.set(trackValue);
     }
+    */
 }
