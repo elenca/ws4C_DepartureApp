@@ -1,0 +1,18 @@
+.numberRangeControl {
+    -fx-padding: 2;
+    -fx-background-color: darkblue;
+    -base-color: rgb(255, 255, 255);
+  //  -base-color: rgb(255, 183, 77);
+  //  -base-color: rgb(229, 115, 115);
+  //  -base-color: rgb(129, 199, 132);
+  //  -base-color: rgb(149, 117, 205);
+  //  -base-color: rgb(186, 104, 200);
+
+}
+
+.numberRangeControl .title {
+    -fx-font-family: 'Arial';
+    -fx-font-size: 36;
+    -fx-font-weight: bold;
+    -fx-fill: -base-color;
+}
